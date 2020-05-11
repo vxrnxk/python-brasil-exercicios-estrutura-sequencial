@@ -8,5 +8,7 @@ Exercício 02 - Faça um Programa que peça um número e então mostre a mensage
 Exercício 03 - Faça um Programa que peça dois números e imprima a soma.
 
 Exercício 04 - Faça um Programa que peça as 4 notas bimestrais e mostre a média
+
 Exercício 05 - Faça um Programa que converta metros para centímetros
+
 Exercício 06 - Faça um Programa que peça o raio de um círculo, calcule e mostre sua área
