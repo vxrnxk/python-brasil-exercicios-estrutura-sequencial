@@ -17,3 +17,6 @@ Exercício 07 - Faça um Programa que calcule a área de um quadrado, em seguida
 
 Exercício 08 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
 
+Exercício 09 - Faça um Programa que peça a temperatura em graus Farenheit, transforme e mostre a temperatura em graus Celsius.
+
+Exercício 10 - Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit
