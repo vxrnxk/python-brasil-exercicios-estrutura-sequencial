@@ -1,4 +1,4 @@
-# # Lista 01 - Exercício 06
+# Lista 01 - Exercício 06
 # Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 
 pi = 3.14
